@@ -3,7 +3,8 @@
 WeatherDB is a comprehensive data warehouse and web management system designed to manage and analyze meteorological data. It supports a range of functionalities for observing weather data, managing observation devices and stations, and handling department and employee information, providing an intuitive interface for meteorologists and weather station managers.
 
 ### 👍 Advisor
-| **Prof. Jack Polnarh** |
+| **Prof. Jack Polnar** |
+|-------------------------|
 | **Prof. Jim Gibson** |
 |-------------------------|
 
