@@ -12,7 +12,7 @@ WeatherDB is a comprehensive data warehouse and web management system designed t
 | **Shuaijun Liu** |
 |-------------------------|
 | **Yifan Wu** |
-|-------------------------|
+
 
 ## <span style="color:orange;">🎨 Project Structure</span>
 
