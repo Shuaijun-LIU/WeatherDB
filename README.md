@@ -4,14 +4,10 @@ WeatherDB is a comprehensive data warehouse and web management system designed t
 
 ### 👍 Advisor
 | **Prof. Jack Polnar** |
-|-------------------------|
-| **Prof. Jim Gibson** |
 
 
 ### ✍️ Author
 | **Shuaijun Liu** |
-|-------------------------|
-| **Yifan Wu** |
 
 
 ## <span style="color:orange;">🎨 Project Structure</span>
